@@ -11,6 +11,9 @@ Simple API to fetch recommended partners for a given project.
   cd around_home_code_challenge
   ```
 * ```ruby
+  bundle install
+  ```
+* ```ruby
   rails db:setup
   ```
 
