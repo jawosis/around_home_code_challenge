@@ -16,7 +16,9 @@ Simple API to fetch recommended partners for a given project.
 * ```ruby
   rails db:setup
   ```
-
+* ```ruby
+  rails s
+  ```
 
 ## Usage
 * visit __http://localhost:3000/projects/6/recommended_partners__ in a browser to get a list of recommended partners
